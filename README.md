@@ -1,4 +1,4 @@
-# Efficient Learning for mmWave Beam Prediction with Data Augmentation
+# Efficient Training of mmWave Beam Prediction Models: A Data Augmentation Approach
 
 This folder includes deep learning codes and corresponding results.
 
@@ -25,5 +25,5 @@ python train.py --aug_type=Label --Z0=2.0 --Zf=8.0 --k=6.0
 ~~~
 
 ## Note:
-1. Environment: Pytorch, Python 3.8.0. MATLAB R2023b.
+1. Environment: Pytorch, Python 3.8.0., MATLAB R2023b.
 2. The files getpos.m, hatchfill2.m, and legendflex.m are utilized to assist in drawing the results.
