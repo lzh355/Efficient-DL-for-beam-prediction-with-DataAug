@@ -1,4 +1,4 @@
-# Efficient Training of mmWave Beam Prediction Models: A Data Augmentation Approach
+# MmWave Beam Prediction with Data Augmentation Approach
 
 This folder includes deep learning codes and corresponding results.
 
